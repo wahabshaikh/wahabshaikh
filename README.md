@@ -1,14 +1,16 @@
 # Hey, I'm [Wahab Shaikh](https://wahabshaikh.github.io) 👋
 
-<!--
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me:
-- ⚡ Fun fact: 
--->
+- 🔭 I’m currently working on the [#100DaysOfCode](https://twitter.com/wahabshaikh_) Challenge
+- 🌱 I’m currently learning Web Development using the JAMstack
+- 👯 I’m looking to collaborate on JAMstack projects
+- 🤔 I’m looking for help with freelancing
+- 💬 Ask me about React
+- 📫 How to reach me: 
+  - [Email](mailto:wahab.shaikh@somaiya.edu)
+  - [LinkedIn](https://linkedin.com/in/wahabshaikh)
+  - [Twitter](https://twitter.com/wahabshaikh_)
+  - [Instagram](https://instagram.com/wahab_sk)
+- ⚡ Fun fact: I can make you smile :)
 
 ![Wahab Shaikh's GitHub profile views](https://komarev.com/ghpvc/?username=wahabshaikh)
 
