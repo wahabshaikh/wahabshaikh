@@ -39,4 +39,6 @@
 
 ![Wahab Shaikh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahabshaikh&layout=compact&theme=tokyonight)
 
+![Wahab Shaikh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahabshaikh&theme=tokyonight)
+
 ![Wahab Shaikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahabshaikh&show_icons=true&include_all_commits=true&theme=tokyonight)
