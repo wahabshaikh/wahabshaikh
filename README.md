@@ -1,15 +1,15 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.me) 👋
 
-- 🔭 I’m currently working on **[Noggin](https://twitter.com/NogginHQ)**
-- 🌱 I’m currently learning **GraphQL** and **TypeScript**
-- 👯 I’m looking to collaborate on **JAMstack-based projects**
+- 🔭 I’m currently working on **[Noggin](https://noggin.so) & [Social Snippet](https://socialsnippet.co)**
+- 🌱 I’m currently learning **Web3**
+- 👯 I’m looking to collaborate on **JAMstack projects**
 - 🤔 I’m looking for help with **Freelancing** and **Contributing to Open-Source**
 - 💬 Ask me about **JAMstack**, **React** and **Next.js**
 - 📫 How to reach me: 
   - [Email](mailto:wahab.shaikh@somaiya.edu)
   - [LinkedIn](https://linkedin.com/in/wahabshaikh)
   - [Twitter](https://twitter.com/wahabshaikh_)
-  - [Instagram](https://instagram.com/wahab_sk)
+  - [Instagram](https://instagram.com/iwahabshaikh)
 - ⚡ Fun fact: I can make you smile :)
 
 ### 🧰 Toolbox
