@@ -1,16 +1,13 @@
-### Hey, I'm [Wahab Shaikh](https://wahabshaikh.me) 👋
+### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[Noggin](https://noggin.so) & [Social Snippet](https://socialsnippet.co)**
-- 🌱 I’m currently learning **Web3**
-- 🤔 I’m looking for help with **Freelancing** and **Contributing to Open-Source**
+- 🔭 I’m currently working on **[Book Club](https://bookclub.rocks)**
+- 🌱 I’m currently learning about **Web3**
+- 🤔 I’m looking for help with **absolutely anything (😭)**
 - 📫 How to reach me: 
-  - [Email](mailto:wahab.shaikh@somaiya.edu)
-  - [Twitter](https://twitter.com/wahabshaikh_)
-  - [LinkedIn](https://linkedin.com/in/wahabshaikh)
-  - [Instagram](https://instagram.com/iwahabshaikh)
+  - [Email](mailto:hey.wahabshaikh@gmail.com)
+  - [Twitter](https://twitter.com/iwahabshaikh)
+  - [Instagram](https://instagram.com/iwahabshaikh) (currently deactivated)
 - ⚡ Fun fact: I can make you smile :)
-<!-- - 👯 I’m looking to collaborate on **JAMstack projects** -->
-<!-- - 💬 Ask me about **JAMstack**, **React** and **Next.js** -->
 
 ### 🧰 Toolbox
 
