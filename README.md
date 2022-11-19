@@ -1,12 +1,12 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[Book Club](https://bookclub.rocks)**
-- 🌱 I’m currently learning about **Web3**
-- 🤔 I’m looking for help with **absolutely anything (😭)**
+- 🔭 I’m currently working on **[Asset Money](https://asset.money)**
+- 🌱 I’m currently learning about **No-Code** & **Web3**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
   - [Twitter](https://twitter.com/iwahabshaikh)
-  - [Instagram](https://instagram.com/iwahabshaikh) (currently deactivated)
+  - [LinkedIn](https://linkedin.com/in/wahabshaikh)
+  - [Instagram](https://instagram.com/iwahabshaikh)
 - ⚡ Fun fact: I can make you smile :)
 
 ### 🧰 Toolbox
