@@ -1,7 +1,7 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[Asset Money](https://asset.money)**
-- 🌱 I’m currently learning about **No-Code** & **Web3**
+- 🔭 I’m currently working on **[Ask Doc](https://askdoc.pro)**
+- 🌱 I’m currently learning about **No-Code** & **AI**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
   - [Twitter](https://twitter.com/iwahabshaikh)
@@ -14,8 +14,10 @@
 - Next.js
 - TypeScript
 - Tailwind CSS
+- tRPC
 - Prisma
 - Supabase
+- OpenAI
 
 ### 📊 Statistics
 
