@@ -1,6 +1,6 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[Ask Doc](https://askdoc.pro)**
+- 🔭 I’m currently working on **[Islamiq.World](https://islamiq.world)**
 - 🌱 I’m currently learning about **No-Code** & **AI**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
@@ -14,8 +14,6 @@
 - Next.js
 - TypeScript
 - Tailwind CSS
-- tRPC
-- Prisma
 - Supabase
 - OpenAI
 
