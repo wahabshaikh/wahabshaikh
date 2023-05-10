@@ -1,7 +1,7 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[Islamiq.World](https://islamiq.world)**
-- 🌱 I’m currently learning about **No-Code** & **AI**
+- 🔭 I’m currently working on **[Islamiq.World](https://islamiq.world)**, **[KaryaHunt](https://karyahunt.com)**, **[WorkinAIML](https://workinaiml.com)**, **[YTJarvis](https://ytjarvis.com)**
+- 🌱 I’m currently learning about **AI**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
   - [Twitter](https://twitter.com/iwahabshaikh)
@@ -12,9 +12,12 @@
 ### 🧰 Toolbox
 
 - Next.js
-- TypeScript
 - Tailwind CSS
+- TypeScript
+- tRPC
+- Prisma
 - Supabase
+- LangChain
 - OpenAI
 
 ### 📊 Statistics
