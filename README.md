@@ -1,12 +1,12 @@
 ### Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
 - 🔭 I’m currently working on **[Islamiq.World](https://islamiq.world)**, **[KaryaHunt](https://karyahunt.com)**, **[WorkinAIML](https://workinaiml.com)**, **[YTJarvis](https://ytjarvis.com)**
+- 📂 I've worked on **[AIPickupLines](https://aipickuplines.com)** (sold!), **[Avatarize](https://avatarize.club)**, **[ProFace](https://proface.club)**
 - 🌱 I’m currently learning about **AI**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
   - [Twitter](https://twitter.com/iwahabshaikh)
   - [LinkedIn](https://linkedin.com/in/wahabshaikh)
-  - [Instagram](https://instagram.com/iwahabshaikh)
 - ⚡ Fun fact: I can make you smile :)
 
 ### 🧰 Toolbox
