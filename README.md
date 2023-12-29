@@ -1,23 +1,19 @@
 # Hey, I'm [Wahab Shaikh](https://wahabshaikh.com) 👋
 
-- 🔭 I’m currently working on **[reader.bio](https://reader.bio)**, **[KaryaHunt](https://karyahunt.com)**, **[Islamiq.World](https://islamiq.world)**
-- 📂 I've worked on **[Avatarize](https://avatarize.club)**, **[ProFace](https://proface.club)**
+- 🔭 I’m currently working on **[Read30x30](https://read30x30.com)**, **[reader.bio](https://reader.bio)**
+- 📂 I've worked on **[Avatarize](https://avatarize.club)**
 - 💰 I've sold **[AIPickupLines](https://www.producthunt.com/products/ai-pickup-lines-generator)**
 - 🌱 I’m currently learning about **AI**
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
   - [Twitter](https://twitter.com/iwahabshaikh)
-  - [LinkedIn](https://linkedin.com/in/wahabshaikh)
-
+  
 ## 🧰 Toolbox
 
 - Next.js
-- Tailwind CSS
+- Tailwind CSS / DaisyUI
 - TypeScript
-- tRPC
-- Prisma
 - Supabase
-- LangChain
 - OpenAI
 
 ## 📊 Statistics
