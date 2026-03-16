@@ -2,6 +2,7 @@
 
 - 🤝 Currently, helping [Marc Lou](https://marclou.com) ship fast(er)!
 - 🧱 Building [DataFast](https://datafa.st) — actionable analytics tool for founders
+- 🌙 Nights & Weekends w/ [deen.page](https://deen.page) and [Halal Marker](https://halalmarker.com)
 - 💰 Sold 2x (AIPickupLines & KaryaHunt)
 - 📫 How to reach me: 
   - [Email](mailto:hey.wahabshaikh@gmail.com)
@@ -9,15 +10,12 @@
   
 ## 🧰 Toolbox
 
-I build with the [ShipFast](https://shipfa.st?via=wahabshaikh) stack
+I ship fast with
 - ⚡️ Next.js
 - 🎨 Tailwind CSS + DaisyUI
-- 👥 NextAuth
+- 👥 BetterAuth
 - 🗄️ MongoDB + Mongoose
-- 💵 Stripe
-- ✉️ Resend
-
-❤️ Supabase & TypeScript too
+- 💻 Cursor
 
 ## 📊 Statistics
 
