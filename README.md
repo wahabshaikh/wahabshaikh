@@ -20,3 +20,11 @@ I ship fast with
 ## 📊 Statistics
 
 ![Wahab Shaikh's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wahabshaikh&theme=tokyonight)
+<div>
+  <a href="https://commit-history.com/wahabshaikh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/wahabshaikh?theme=dark" />
+      <img alt="wahabshaikh's commit history" src="https://commit-history.com/embed/wahabshaikh" />
+    </picture>
+  </a>
+</div>
